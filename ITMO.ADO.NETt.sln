@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Lab1", "ITMO.ADO.NET.Lab1\ITMO.ADO.NET.Lab1.csproj", "{618A434F-8C22-464C-9B95-D62A14348240}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Lab3.DSConnect", "ITMO.ADO.NET.Lab3.DSConnect\ITMO.ADO.NET.Lab3.DSConnect.csproj", "{98200D99-1885-45BB-A3E2-94DF94285059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Lab3.DBCommand", "ITMO.ADO.NET.Lab3.DBCommand\ITMO.ADO.NET.Lab3.DBCommand.csproj", "{8BD4DCF2-1BDC-4F7E-8BB7-E6D70AD2A152}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{618A434F-8C22-464C-9B95-D62A14348240}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{618A434F-8C22-464C-9B95-D62A14348240}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{618A434F-8C22-464C-9B95-D62A14348240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98200D99-1885-45BB-A3E2-94DF94285059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98200D99-1885-45BB-A3E2-94DF94285059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98200D99-1885-45BB-A3E2-94DF94285059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98200D99-1885-45BB-A3E2-94DF94285059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BD4DCF2-1BDC-4F7E-8BB7-E6D70AD2A152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD4DCF2-1BDC-4F7E-8BB7-E6D70AD2A152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD4DCF2-1BDC-4F7E-8BB7-E6D70AD2A152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD4DCF2-1BDC-4F7E-8BB7-E6D70AD2A152}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -51,7 +51,7 @@ namespace ITMO.ADO.NET.Lab1
             this.connectionListToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(1361, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(801, 28);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -136,7 +136,7 @@ namespace ITMO.ADO.NET.Lab1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1361, 450);
+            this.ClientSize = new System.Drawing.Size(801, 450);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.listView1);
             this.Controls.Add(this.button2);
