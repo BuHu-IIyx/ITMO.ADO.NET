@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Lab5.DataBindi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Lab5.DataGridViewExample", "ITMO.ADO.NET.Lab5.DataGridViewExample\ITMO.ADO.NET.Lab5.DataGridViewExample.csproj", "{19AB7343-2130-4925-9480-A8A7F6B4B523}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Lab7.LinqStudent", "ITMO.ADO.NET.Lab7.LinqStudent\ITMO.ADO.NET.Lab7.LinqStudent.csproj", "{F92EACC3-9887-4E32-AB38-94DF7E499DA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{19AB7343-2130-4925-9480-A8A7F6B4B523}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19AB7343-2130-4925-9480-A8A7F6B4B523}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19AB7343-2130-4925-9480-A8A7F6B4B523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F92EACC3-9887-4E32-AB38-94DF7E499DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92EACC3-9887-4E32-AB38-94DF7E499DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92EACC3-9887-4E32-AB38-94DF7E499DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92EACC3-9887-4E32-AB38-94DF7E499DA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
