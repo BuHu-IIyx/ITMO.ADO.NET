@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Lab9.CustomerM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Lab9.CodeFirst", "ITMO.ADO.NET.Lab9.CodeFirst\ITMO.ADO.NET.Lab9.CodeFirst.csproj", "{EACA3BE2-B9AE-4668-83EC-21708BA00800}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.ADO.NET.Lab9.CourseManager", "ITMO.ADO.NET.Lab9.CourseManager\ITMO.ADO.NET.Lab9.CourseManager.csproj", "{FD421DC3-FFB8-4FED-A46B-22525CD28AB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{EACA3BE2-B9AE-4668-83EC-21708BA00800}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EACA3BE2-B9AE-4668-83EC-21708BA00800}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EACA3BE2-B9AE-4668-83EC-21708BA00800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD421DC3-FFB8-4FED-A46B-22525CD28AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD421DC3-FFB8-4FED-A46B-22525CD28AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD421DC3-FFB8-4FED-A46B-22525CD28AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD421DC3-FFB8-4FED-A46B-22525CD28AB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
