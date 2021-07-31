@@ -51,6 +51,7 @@ namespace ITMO.ADO.NET.Lab9.CustomerManager
             this.labelid = new System.Windows.Forms.Label();
             this.textBoxCustomer = new System.Windows.Forms.TextBox();
             this.GridView = new System.Windows.Forms.DataGridView();
+            this.ViporderradioButton = new System.Windows.Forms.RadioButton();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.GridView)).BeginInit();
             this.SuspendLayout();
@@ -198,6 +199,7 @@ namespace ITMO.ADO.NET.Lab9.CustomerManager
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.ViporderradioButton);
             this.groupBox1.Controls.Add(this.OrderradioButton);
             this.groupBox1.Controls.Add(this.CustomerradioButton);
             this.groupBox1.Location = new System.Drawing.Point(541, 89);
@@ -257,6 +259,17 @@ namespace ITMO.ADO.NET.Lab9.CustomerManager
             this.GridView.Size = new System.Drawing.Size(913, 270);
             this.GridView.TabIndex = 19;
             this.GridView.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.GridView_CellClick);
+            // 
+            // ViporderradioButton
+            // 
+            this.ViporderradioButton.AutoSize = true;
+            this.ViporderradioButton.Location = new System.Drawing.Point(27, 19);
+            this.ViporderradioButton.Name = "ViporderradioButton";
+            this.ViporderradioButton.Size = new System.Drawing.Size(50, 21);
+            this.ViporderradioButton.TabIndex = 2;
+            this.ViporderradioButton.TabStop = true;
+            this.ViporderradioButton.Text = "VIP";
+            this.ViporderradioButton.UseVisualStyleBackColor = true;
             // 
             // CustomerViewer
             // 
@@ -320,6 +333,7 @@ namespace ITMO.ADO.NET.Lab9.CustomerManager
         private System.Windows.Forms.Label labelid;
         private System.Windows.Forms.TextBox textBoxCustomer;
         private System.Windows.Forms.DataGridView GridView;
+        private System.Windows.Forms.RadioButton ViporderradioButton;
     }
 }
 

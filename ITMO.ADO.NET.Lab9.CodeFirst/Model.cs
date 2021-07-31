@@ -57,7 +57,11 @@ namespace ITMO.ADO.NET.Lab9.CodeFirst
             string s = ProductName + " " + Quantity + "шт., дата: " + PurchaseDate;
             return s;
         }
-
+    }
+    [Table("VipOrders")]
+    public class VipOrder : Order
+    {
+        public string status { get; set; }
     }
 
 }

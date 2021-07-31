@@ -19,5 +19,6 @@ namespace ITMO.ADO.NET.Lab9.CodeFirst
 
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Order> Orders { get; set; }
+        public DbSet<VipOrder> VipOrders { get; set; }
     }
 }
